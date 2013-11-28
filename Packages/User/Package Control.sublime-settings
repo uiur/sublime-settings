@@ -1,10 +1,14 @@
 {
 	"installed_packages":
 	[
+		"Alignment",
+		"AngularJS",
 		"Emmet",
 		"Emmet Css Snippets",
 		"Git",
+		"GitGutter",
 		"LESS",
+		"sublime-github",
 		"TrailingSpaces"
 	]
 }

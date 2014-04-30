@@ -1,8 +1,10 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
-	"font_size": 20,
+	"color_scheme": "Packages/User/Solarized (Dark) (SL).tmTheme",
+	"font_size": 24,
 	"ignored_packages":
 	[
+		"SublimeCodeIntel",
+		"SublimeLinter-coffee"
 	],
 	"tab_size": 4,
 	"translate_tabs_to_spaces": true
